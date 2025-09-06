@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ErdeniWildcardPlugin.cpp.obj": [
+			"ErdeniWildcardPlugin.init.gen.cpp.obj",
+			"ErdeniWildcardPluginBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"ErdeniWildcardPlugin.cpp.obj",
+			"ErdeniWildcardPluginBPLibrary.cpp.obj"
+		]
+	}
+}
