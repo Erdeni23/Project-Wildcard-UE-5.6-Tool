@@ -1,2 +1,4 @@
-# Project Wildcard-UE 5.6-Tool
+# Project Wildcard
+
+## Инструмент создания Data Assets по Data Table
 
