@@ -2,7 +2,7 @@
 
 Project Wildcard - это продвинутый **Editor Utility Widget** для Unreal Engine, предназначенный для создания и синхронизации Data Asset из **неограниченного количества** Data Tables. Инструмент реализует централизованное управление через "мастер-таблицу", что позволяет кардинально ускорить и обезопасить процесс работы с игровыми данными в проектах любого масштаба.
 
-![ProjectWildcardMain](https://github.com/user-attachments/assets/7328fe28-bc9b-4492-9cbd-b2930aba5215)
+![ProjectWildcardMain-2](https://github.com/user-attachments/assets/79780a49-fd15-4428-8781-b40977b5d5af)
 
 
 ## 1. Проблема: Data Table vs. Data Asset
